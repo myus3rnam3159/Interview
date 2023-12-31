@@ -15,3 +15,6 @@
 * Java Advance: https://docs.google.com/document/d/1iI-ONpDrOVGgDzmcb6bcl-XBhuXUjFea/edit?usp=sharing&ouid=111134548910658747669&rtpof=true&sd=true
 
 * Java interview: https://docs.google.com/document/d/1Zc-c1AS3-aqZhhYj_2pR5OwSrmdis-dXXT8BAaAu40g/edit?usp=sharing
+  
+*** Maven ***
+* Theory: https://docs.google.com/document/d/1yXWnvD1R6uRb6V_mYN6J-v16UfYcUFcvjGmRk0Skzcs/edit?usp=sharing
